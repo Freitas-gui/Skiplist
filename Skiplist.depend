@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1573249887 source:c:\users\cb\desktop\nativo\ufes_6\skiplist\main.c
+	"skiplist.h"
+
+1573249887 c:\users\cb\desktop\nativo\ufes_6\skiplist\skiplist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573240402 source:c:\users\cb\desktop\nativo\ufes_6\skiplist\skiplist.c
+	"skiplist.h"
+
+1573249886 source:c:\users\freit\onedrive\Área de trabalho\skiplist1\main.c
+	"skiplist.h"
+
+1573249886 c:\users\freit\onedrive\Área de trabalho\skiplist1\skiplist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573250194 source:c:\users\freit\onedrive\Área de trabalho\skiplist1\skiplist.c
+	"skiplist.h"
+

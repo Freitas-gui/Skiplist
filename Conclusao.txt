@@ -1,0 +1,17 @@
+O trabalho eh muito interessante pois apresentou uma solução mais eficiente no quesito de busca por elementos em uma lista dinamicamente ligada e ordenada.
+
+
+
+
+-me forçou bastante em trabalhar com ponteiro de ponteiro
+
+-Aprendi a trabalhar com leitura e escritura de arquivos.txt, particulamente tive dificuldade pois foi a primeira vez que tive contato com esse metodo
+
+-tive que fazer algumas gambiarras para manipular a leitura por linha do arquivo, portanto exagerei em alguns comandos de repeticao e conversões de string para int e vice-versa
+
+-a reusabilidade de funçoes foi muito importante, pois as funcoes de inserir e remover elementos dependem da funcao de busca que gera um vetor com apontamentos
+para elementos essenciais. Além da funcao de imprimir a lista inteira ser muito mais simples depois que a impressao por nivel de hierarquia estava pronta. 
+verificar se a lista era vazia foi ultilizada em praticamente todas as funcoes.
+
+-Tive que dividir para conquistar, levei um bom tempo para terminar, quando vi o trabalho finalizado me senti orgulhoso. Gostei disso.
+

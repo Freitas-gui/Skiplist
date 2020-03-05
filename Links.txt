@@ -1,0 +1,14 @@
+//ler sequencia de numeros separados por espaco:
+https://pt.stackoverflow.com/questions/150875/leitura-de-sequ%C3%AAncia-de-n%C3%BAmeros-separados-por-espa%C3%A7o
+
+//concaternar numeros (int):
+http://www.unidev.com.br/index.php?/topic/42180-resolvidocomo-juntar-2-n%C3%BAmeros-sem-somar/
+
+//Manipulacao de arquivo
+https://www.youtube.com/watch?v=eriDnpkh5kA
+https://www.youtube.com/watch?v=y_euDUgoND8
+https://www.youtube.com/watch?v=USsUSMpNGsM&t=190s
+http://www.cmaismais.com.br/referencia/cstdio/feof/
+
+//Geral
+https://www.dropbox.com/s/tufjpg47ektgd3z/Trabalho%201%20Skip%20List.pdf?dl=0
